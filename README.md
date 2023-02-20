@@ -9,11 +9,11 @@ Before running this Terraform script, you need to have the following:
 * Terraform installed on your local machine
 
 ## Usage
-    1. Clone this repository onto your local machine.
-    2. In the project directory, run terraform init to initialize the Terraform configuration.
-    3. Run terraform plan to see the resources that will be created.
-    4. Run terraform apply to create the resources.
-    5. After the resources are created, you can access the EC2 instance by navigating to its public IP address in a web browser.
+   * Clone this repository onto your local machine.
+   * In the project directory, run terraform init to initialize the Terraform configuration.
+   * Run terraform plan to see the resources that will be created.
+   * Run terraform apply to create the resources.
+   * After the resources are created, you can access the EC2 instance by navigating to its public IP address in a web browser.
 
 ## Resource created
    * A VPC with specified CIDR block
