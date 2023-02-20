@@ -30,12 +30,13 @@ Before running this Terraform script, you need to have the following:
    * `CIDR-Production-VPC`: The CIDR block for the VPC. Default: `10.192.0.0/16`
    * `CIDR-Production-subnet`: The CIDR block for the subnet. Default: `10.192.10.0/24`
    * `ingress_ports`: The list of inbound ports to allow traffic on. Default: `[443, 80, 22]`
-## Authors
+## Authors :memo:
+
 
 -This terraform script was created and maintained by [@Nikhil_Singh](https://github.com/Nikhil-Singh25)
 
 
 ## License
 
-* This Terraform script is Licensed under MIT  License.See `LISCENCE` for more information
+* This Terraform script is Licensed under MIT  License.See `LISCENCE` for more information 
 
