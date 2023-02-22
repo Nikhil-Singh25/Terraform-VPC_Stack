@@ -35,7 +35,7 @@ Before running this Terraform script, you need to have the following:
 
 -This terraform script was created and maintained by [@Nikhil_Singh](https://github.com/Nikhil-Singh25)
 
- :triangular_flag_on_post: If you want to create a CI using terraform & Jenkins you can refer to :arrow_right: ![TF_jenkinsProject]()
+ :triangular_flag_on_post: If you want to create a CI using terraform & Jenkins you can refer to :arrow_right: [TF_jenkinsProject](https://github.com/Nikhil-Singh25/tf_jenkinsProj)
 
 </br>
 
